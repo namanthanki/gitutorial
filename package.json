@@ -1,0 +1,8 @@
+{
+  "name": "git-exercise-checker",
+  "version": "1.0.0",
+  "description": "Zero-dependency Node.js CLI to check Git exercise completion",
+  "scripts": {
+    "check": "node check-exercises.js"
+  }
+}
